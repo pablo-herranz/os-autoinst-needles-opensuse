@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 896,
+      "height": 21,
+      "ypos": 0,
+      "width": 121,
+      "type": "match"
+    },
+    {
+      "xpos": 6,
+      "ypos": 25,
+      "width": 122,
+      "height": 40,
+      "type": "match",
+      "click_point": {
+        "xpos": 61,
+        "ypos": 20
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "window-minimize"
+  ]
+}
